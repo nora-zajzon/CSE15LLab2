@@ -31,7 +31,7 @@ Nora Zajzon's Lab #2
 ![Image](lsprivate.png)
 
 ## The absolute path to the public key for your SSH key for logging into ieng6
-![Image](lspublic.png)
+![Image](public.png)
 
 ## A terminal interaction where you log into your ieng6 account without being asked for a password.
 ![Image](login.png)
